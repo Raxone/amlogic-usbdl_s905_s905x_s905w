@@ -15,8 +15,7 @@ git clone https://github.com/Raxone/amlogic-usbdl_s905_s905x_s905w.git
 
 cd amlogic-usbdl_s905_s905x_s905w
 
-./start.sh  	
-(reboot device in Bootrom(BL1) and start menu)
+./start.sh
 
 1) S905 Dump BL1 
 2) S905 Dump Efuse 
