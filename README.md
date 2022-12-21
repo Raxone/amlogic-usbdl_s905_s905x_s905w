@@ -1,9 +1,9 @@
 # [amlogic-usbdl](https://github.com/frederic/amlogic-usbdl) : unsigned code loader for Amlogic bootrom
 
 # Raxone
-add support for s905,s905x,s905x-h,s905w
-add support usb password
-mod amlogic-usbdl.c #check usb password stop
+add support for s905,s905x,s905x-h,s905w,
+add support usb password,
+mod amlogic-usbdl.c #check usb password stop,
 add scripts
 
 How to
