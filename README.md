@@ -1,12 +1,12 @@
 # [amlogic-usbdl](https://github.com/frederic/amlogic-usbdl) : unsigned code loader for Amlogic bootrom
 
 # Raxone
-* add support for s905,s905x,s905x-h,s905w
-* add support usb password
-* mod amlogic-usbdl.c #check usb password stop
-* add scripts
+add support for s905,s905x,s905x-h,s905w
+add support usb password
+mod amlogic-usbdl.c #check usb password stop
+add scripts
 
-* How to
+How to
 
 git clone https://github.com/Raxone/amlogic-usbdl_s905_s905x_s905w.git
 
