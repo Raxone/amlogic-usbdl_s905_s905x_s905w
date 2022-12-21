@@ -15,12 +15,12 @@ cd amlogic-usbdl_s905_s905x_s905w
 ./start.sh  #reboot device in Bootrom(BL1) and start menu.
 
 
-** 1) S905 Dump BL1 
-** 2) S905 Dump Efuse 
-** 3) S905X-H Dump BL1 
-** 4) S905X-H Dump Efuse
-** 5) S905W Dump BL1
-** 6) S905W Dump EFuse
+1) S905 Dump BL1 
+2) S905 Dump Efuse 
+3) S905X-H Dump BL1 
+4) S905X-H Dump Efuse
+5) S905W Dump BL1
+6) S905W Dump EFuse
 Please enter a menu option and enter or x to exit. 
 
 
