@@ -9,7 +9,7 @@ mod amlogic-usbdl.c #check usb password stop
 
 add scripts
 
-How to
+* How to
 
 git clone https://github.com/Raxone/amlogic-usbdl_s905_s905x_s905w.git
 
