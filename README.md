@@ -1,6 +1,6 @@
 # [amlogic-usbdl](https://github.com/frederic/amlogic-usbdl) : unsigned code loader for Amlogic bootrom
 
-# Raxone (https://github.com/Raxone/amlogic-usbdl_s905_s905x_s905w.git)
+# Raxone
 * add support for s905,s905x,s905x-h,s905w
 * add support usb password
 * mod amlogic-usbdl.c #check usb password stop
@@ -14,15 +14,15 @@ cd amlogic-usbdl_s905_s905x_s905w
 
 ./start.sh  #reboot device in Bootrom(BL1) and start menu.
 
-*********************************************
-** 1) S905 Dump BL1 
-** 2) S905 Dump Efuse 
-** 3) S905X-H Dump BL1 
-** 4) S905X-H Dump Efuse
-** 5) S905W Dump BL1
-** 6) S905W Dump EFuse
-*********************************************
-Please enter a menu option and enter or x to exit. 
+#*********************************************
+#** 1) S905 Dump BL1 
+#** 2) S905 Dump Efuse 
+#** 3) S905X-H Dump BL1 
+#** 4) S905X-H Dump Efuse
+#** 5) S905W Dump BL1
+#** 6) S905W Dump EFuse
+#*********************************************
+#Please enter a menu option and enter or x to exit. 
 
 
 ## Disclaimer
