@@ -36,9 +36,9 @@ Amlogic bootrom supports booting from USB. This method of boot requires an USB h
 This tool exploits a [vulnerability](https://fredericb.info/2021/02/amlogic-usbdl-unsigned-code-loader-for-amlogic-bootrom.html) in the USB download mode to load and run unsigned code in Secure World.
 
 ## Supported targets #Tested
-* s905    # Minix Neo U1
-* s905x-h # Mi Box S (MDZ-22-AB) #need maskrom
-* s905w   # x96 mini
+* s905      *Minix Neo U1
+* s905x-h   *Mi Box S (MDZ-22-AB) #need maskrom
+* s905w     *x96 mini
 
 ## Usage
 ```shell
