@@ -9,7 +9,7 @@
 #include <assert.h>
 #include "libusb-1.0/libusb.h"
 
-#define DEBUG 1
+#define DEBUG 0
 #define VENDOR_ID 0x1b8e
 #define PRODUCT_ID 0xc003
 #define AM_REQ_WR_LARGE_MEM 0x11
