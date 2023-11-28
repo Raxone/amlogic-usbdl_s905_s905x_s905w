@@ -1,6 +1,7 @@
 # [amlogic-usbdl](https://github.com/frederic/amlogic-usbdl) : unsigned code loader for Amlogic bootrom
 
-*Update Script 28.11.2023
+*Update script 28.11.2023
+*add extract aeskey,password,salt
 
 add support for s905,s905x,s905x-h,s905w
 
