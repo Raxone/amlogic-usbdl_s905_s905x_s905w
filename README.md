@@ -1,5 +1,4 @@
-# [amlogic-usbdl](https://github.com/frederic/amlogic-usbdl) : unsigned code loader for Amlogic bootrom
-* This vulnerability was identified, and tools were created for it by Frederic and Raxone added support for the S905,S905x,S905w chipset, as well as scripts and other necessary components.
+* This vulnerability was identified, and tools were created for it by [Frederic](https://github.com/frederic/amlogic-usbdl) and Raxone added support for the S905,S905x,S905w chipset, as well as scripts and other necessary components.
 * Update script 28.11.2023
 * add extract aeskey,password,salt
 * add support for s905,s905x,s905x-h,s905w
